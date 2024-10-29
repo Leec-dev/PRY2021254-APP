@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Filters/AugmentedFaces/Configurations.meta
+guid: 2d4a185306702487e8c0464d0c03e4bd
+folderAsset: yes
+DefaultImporter:
+========
+guid: a25e9dd9091209843888d3ab77df9998
+NativeFormatImporter:
+>>>>>>>> feature/scienceLvl:Assets/Scripts/NewShaderVariants.shadervariants.meta
+  externalObjects: {}
+  mainObjectFileID: 20000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
